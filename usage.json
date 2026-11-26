@@ -1,9 +1,9 @@
 {
   "plan": "Power",
-  "weekly_used_percent": 0,
-  "weekly_left_percent": 100,
+  "weekly_used_percent": 1,
+  "weekly_left_percent": 99,
   "weekly_resets_at": "2026-12-02T11:21:00+09:00",
   "additional_tokens_used_percent": 0,
   "additional_tokens_left": "12B",
-  "updated_at": "2026-11-26T11:21:33+09:00"
+  "updated_at": "2026-11-26T17:21:06+09:00"
 }
